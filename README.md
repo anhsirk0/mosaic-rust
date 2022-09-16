@@ -2,16 +2,16 @@
 
 ## Screenshots
 ### Input image
-![fry.jpg](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshts/fry.jpg)
+![fry.jpg](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshots/fry.jpg)
 
 ### Output image
-![output.png](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshts/output.png)
+![output.png](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshots/output.png)
 
 ### Part of input image
-![fry_part.jpg](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshts/fry_part.jpg)
+![fry_part.jpg](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshots/fry_part.jpg)
 
 ### Part of output image
-![output_part.png](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshts/output_part.png)
+![output_part.png](https://github.com/anhsirk0/mosaic-rust/blob/master/screenshots/output_part.png)
 
 ## Usage
 If installed
